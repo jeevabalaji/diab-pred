@@ -55,7 +55,7 @@ If you find a bug or have a feature request, feel free to open an issue
 
 ## Installation
 
-- Clone this repository and unzip it. https://github.com/Elangovan0101/Diabetes-prediction-.git
+
 - After downloading, navigate to the flask directory.
 - Begin a new virtual environment with Python 3 and activate it.
 - Install the required packages using `pip install -r requirements.txt`.
